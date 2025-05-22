@@ -61,11 +61,11 @@ Every dataset used is public and were obtained from free repositories.
 
 ## 🎖️ Conclusions
 
-
+This repository contains different topics, which were useful during my process of getting deeper into the wonderful Data Science world. 
 
 ## 📎 Related work
 
-- Añadir el link a otro repositorio
+- [Applied statistics](https://github.com/DiegoRaC14/Applied_statistics): A collection of real-world applied statistics projects.
 
 ---
 ## 🪅 Author
